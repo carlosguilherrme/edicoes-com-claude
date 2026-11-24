@@ -1,5 +1,5 @@
 """Gera a trilha e os efeitos 8 bits do vídeo em pixel art (onda quadrada, triângulo e ruído). Sem crédito, tudo local.
-    <venv do autocut>/python som8bit.py
+    python3 som8bit.py   (grava trilha8.wav e sfx/ na pasta onde roda)
 """
 import wave
 import numpy as np
